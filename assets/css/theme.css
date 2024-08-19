@@ -15,7 +15,8 @@
   --color-border-light: #babcc1;
   --color-background: #e7e8ea;
   --color-background-dark: #dfe0e2;
-  --color-background-light: #eff0f1;
+  --color-background-light: #fff;
+  /*--color-background-light: #eff0f1;*/
   --color-text: #27292b;
   --color-text-light: #898d95;
   --color-success: #32b643;
